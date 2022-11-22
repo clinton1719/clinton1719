@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Clinton Fernandes
-- 👀 I’m interested in software & web development in Java, Spring Boot.
-- 🌱 I’m currently learning spring, hibernate, JPA, spring security.
-- 💞️ I’m looking to collaborate on Java and spring projects
-- 📫 How to reach me: Feel free to contact me on mal for project collaborations.
+- 👋 Hi, I’m Clinton Fernandes.
+- 👀 I’m interested in software & web development in Java and Spring Boot.
+- 🌱 I’m currently working on Enterprise level Spring Boot applications and Java based architectures.
+- You can know more about me through my portfolio [here]()
+- 📫 How to reach me: Feel free to contact me on my [Linkedin](https://www.linkedin.com/in/clinton-fernandes-45932915a/).  
 
 <!---
 clinton1719/clinton1719 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
