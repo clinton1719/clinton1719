@@ -53,4 +53,8 @@ I build things that *survive production*, including:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clinton1719&layout=compact&theme=radical" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clinton1719&theme=radical" alt="GitHub Streak" />
+</p>
+
 ---
