@@ -48,8 +48,6 @@ I build things that *survive production*, including:
 
 ## 📈 GitHub Stats
 
-![Clinton's GitHub stats](https://github-readme-stats.vercel.app/api?username=clinton1719&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clinton1719&layout=compact&theme=radical&cache_seconds=1800)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=clinton1719)](https://github.com/FajarKim/github-readme-profile)
 
 ---
