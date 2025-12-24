@@ -48,8 +48,8 @@ I build things that *survive production*, including:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clinton1719&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clinton1719&layout=compact&theme=radical" height="165"/>
-</p>
+![Clinton's GitHub stats](https://github-readme-stats.vercel.app/api?username=clinton1719&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clinton1719&layout=compact&theme=radical&cache_seconds=1800)
+
 ---
