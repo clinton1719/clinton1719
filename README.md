@@ -1,61 +1,27 @@
-# 👋 Hi, I'm Clinton – Cloud-Native Software Engineer | OSS Contributor | AWS Advocate
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/clinton-fernandes-45932915a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f172a?logo=firefox-browser&logoColor=white)](https://portfolio-lilac-phi-72.vercel.app/)
+# 💫 About Me:
+🔭 **I’m currently working on**: Building high-scale distributed systems using **Java 21 Virtual Threads** and optimizing **AWS Serverless** architectures for cold-start reduction.<br>👯 **I’m looking to collaborate on**: Open-source Java libraries, performance tuning tools, or **distributed system** frameworks.<br>🤝 **I’m looking for help with**: Advanced **Kubernetes** orchestration and deep-level **eBPF** for system observability.<br>🌱 **I’m currently learning**: Low-level **JVM performance tuning**, Distributed Consensus protocols (Raft/Paxos), and **System Design** for billion-user scale.<br>💬 **Ask me about**: Java/Spring Boot internals, **AWS Lambda** best practices, and building resilient event-driven systems.<br>⚡ **Fun fact**: I prefer code that is self-documenting over long-winded comments, but I spend 20% of my time perfecting the naming of a single variable.
 
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clinton-fernandes-45932915a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@clintoncletus) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14325012) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clintoncleetus17@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=clinton1719&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=clinton1719&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=clinton1719&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm a Software Engineer building **cloud-native, event-driven applications** with a sharp focus on **scalability, precision, and cost-efficiency**. My work spans designing high-availability systems using **Java (21+), Spring Boot, AWS Lambda, DynamoDB**, and more.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=clinton1719&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I build things that *survive production*, including:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔄 [**Cloud Circuit Breaker**](https://github.com/clinton1719/cloud-circuitbreaker): Distributed circuit breaker for Java services, backed by DynamoDB. Pluggable, annotation-driven, and Lambda-ready.
-
----
-
-## 🧠 Key Skills
-
-| Cloud & Infra | Backend | Frontend | Design Patterns | Tooling |
-|---------------|---------|----------|------------------|---------|
-| AWS Lambda, API Gateway, DynamoDB, S3 | Java 21, Spring Boot, Node.js | ReactJS, Next.js | Event-Driven, CQRS, Serverless Arch | Maven, GitHub Actions, JUnit, Jest |
-
----
-
-## 📦 OSS Work Highlights
-
-- 🔌 **[cloud-circuitbreaker](https://github.com/clinton1719/cloud-circuitbreaker)**  
-  Java circuit breaker designed for modern, distributed apps. Modular. Resilient. Cloud-first.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=clinton1719&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=clinton1719&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Reach Me
-
-- 🌐 **Portfolio**: [My portfolio](https://portfolio-lilac-phi-72.vercel.app/)
-- 💼 **LinkedIn**: [linkedin.com/in/clinton1719](https://www.linkedin.com/in/clinton-fernandes-45932915a/)
-- 📨 **Email**: `clintoncleetus17@gmail.com`
-
----
-
-## 🔭 Currently Working On
-
-- Writing in-depth blogs on cloud patterns and distributed reliability
-- Working on distrbuted systems and designing fault tolerant cloud patterns
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=clinton1719)](https://github.com/FajarKim/github-readme-profile)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=clinton1719)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clinton1719&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
